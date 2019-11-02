@@ -1,5 +1,5 @@
 ---
-title: "Favorite & Least Favorite"
+title: "Favorite and least favorite"
 date: 2019-11-01T17:33:11-07:00
 draft: false
 ---
