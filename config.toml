@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 5
+paginate = 20
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -15,9 +15,7 @@ paginate = 5
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
-  centerTheme = false
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  centerTheme = true
 
 [languages]
   [languages.en]

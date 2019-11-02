@@ -4,8 +4,6 @@ date: 2019-11-02T09:50:05-07:00
 draft: false
 ---
 
-- Sublime Text, the editor I use most often
-- Github
-- Netlify
+- Sublime Text because it's the editor I use most often
 - Hugo static site generator because it has a lot of stars and seemed nice to work with
-- Hugo's Terminal theme for its simple design with bright colors
+- Hugo's Terminal theme because of its simple design with bright colors

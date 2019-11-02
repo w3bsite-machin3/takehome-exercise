@@ -10,7 +10,6 @@ This section also addresses: "Briefly explain a challenge you experienced in set
 I thought the service was really impressive! Here are some specifics:
 
 - The integration with Github was soooo smooth. I even tore down the original repo I’d connected to Netlify to see what it would be like to reconnect a new repo. The process was so easy and took very few clicks. Really nice. 
-
 - Adding a `netlify.toml` file with a redirect was very straightforward thanks to the docs. 
 
 ### Challenge: Using logs to zero in on an environment variable
